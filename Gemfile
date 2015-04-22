@@ -15,6 +15,8 @@ gem 'bootstrap-will_paginate'
 gem 'will_paginate'
 gem 'devise', '~> 3.4.0'
 gem 'figaro'
+gem 'mailboxer'
+gem 'gravatar_image_tag'
 
 group :development, :test do
   gem 'byebug'
