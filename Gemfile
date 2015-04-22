@@ -13,6 +13,8 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'bootstrap-sass'
 gem 'bootstrap-will_paginate'
 gem 'will_paginate'
+gem 'devise', '~> 3.4.0'
+gem 'figaro'
 
 group :development, :test do
   gem 'byebug'
